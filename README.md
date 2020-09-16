@@ -15,11 +15,10 @@
 ### json
 ### ujson
 
-
 ## 5. 进度条显示
 ### progressbar
 
-## 6.控制台打印
+## 6. 控制台打印
 ### colorama
 
 ## 7. 日期解析
@@ -29,7 +28,7 @@
 ### psutil
 
 ## 9. 财经数据接口
-### 财经数据接口包
+### tushare
 
 ## 10. 浏览器agent
 ### fake-useragent
