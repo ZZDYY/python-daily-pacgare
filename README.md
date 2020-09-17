@@ -2,10 +2,10 @@
 >每天一个python包,整理一些好用或者好玩的python包
 
 ## 1. SSH远程连接服务器
-### Paramiko
+### [Paramiko](paramiko-demo/paramiko.md)
 
 ## 2. http请求报
-### Requests 
+### [Requests](Requests-demo/Requests.md) 
 
 ## 3. 快速创建命令行
 ### click
