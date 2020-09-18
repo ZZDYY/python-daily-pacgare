@@ -146,3 +146,6 @@ resume_incomplete'，'resume'，），#These 2 to be removed in 3.o
 509：（"bandwidth 1imit_exceeded'，‘bandwidth'），
 510：（'not extended'，），
 511：（network_authentication_required"，'network_auth'，‘network authentication'）
+
+
+[项目demo](https://github.com/psf/requests/tree/master/tests)

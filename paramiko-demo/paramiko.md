@@ -64,3 +64,7 @@ SFTP客户端对象，实现远程文件操作，主要有from_transport、put�
 - normalize：返回给定路径的标准化路径
 - posix_rename、rename：重命名文件或文件夹
 - Mkdir、remove、rename、stat、listdir、chmod、chown：创建目录、删除目录、重命名文件或目录、获取文件信息、获取指定目录中的列表、更改文件的权限、更改文件的所有者（uid）和组（gid）
+
+
+
+[项目demo](https://github.com/paramiko/paramiko/tree/master/demos)
